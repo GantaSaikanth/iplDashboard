@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.lists {
+  list-style-type: none;
+}
+.list-container {
+  display: flex;
+  flex-direction: row;
+}
+.team-image {
+  height: 100px;
+  width: 100px;
+}
+.team-heading {
+  color: #fff;
+  font-family: 'Bree Serif';
+  font-size: 35px;
+  padding-left: 10px;
+}
+.link-container {
+  width: 47%;
+  text-decoration: none;
+  border: 1px solid #fff;
+  background-color: #ffffff00;
+  margin: 10px;
+  height: 150px;
+  border-radius: 10px;
+}
